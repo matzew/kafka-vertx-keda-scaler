@@ -1,0 +1,1 @@
+# kafka-vertx-keda-scaler
